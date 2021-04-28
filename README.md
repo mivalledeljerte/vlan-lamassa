@@ -2,10 +2,10 @@
 # NiceStart
 [mivalledeljerte en github](https://github.com/mivalledeljerte)
 
-**italic**
+**Índice**
 
-* elemento1
-* subelemento1
+* Inicio
+* Contenidos
 
 Splash | Login
 -------|--------
